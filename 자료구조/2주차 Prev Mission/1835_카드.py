@@ -10,3 +10,5 @@ for i in range(n, 0, -1):
     d.appendleft(d.pop())
 
 print(*list(d))
+
+#테스트
