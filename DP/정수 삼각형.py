@@ -1,4 +1,4 @@
-##이것이 코딩테스트다  376p
+#이것이 코딩테스트다  376p
 #https://www.acmicpc.net/problem/1932
 #DP
 #20221121
